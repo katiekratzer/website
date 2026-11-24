@@ -1,0 +1,2 @@
+# Preview deployment
+Cloudflare Pages: connect this repository, select Astro, build command `npm run build`, output directory `dist`. No environment variables required. This first draft references public Squarespace image URLs temporarily; migrate artwork to independent image storage before cancelling Squarespace. Keep noindex until launch. Catalogue, full artwork metadata, CMS and separate pages are not yet implemented.
